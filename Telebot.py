@@ -6,7 +6,7 @@ from gpt import Dialog
 from models import load_model
 
 
-TOKEN = '6916704263:AAHlJMy6_2ip8BhtXfSL-XlZcTKFyC4fe8U'
+TOKEN = '6916704263:AAHlJMy62_2ip8Bh4tXfSL-XlZcTKFyC4fe8U'
 bot = TeleBot(TOKEN)
 gpt_dialog = Dialog()
 image_model = load_model()
